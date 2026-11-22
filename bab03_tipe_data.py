@@ -1,0 +1,6 @@
+print('Dila - NIS 123456789')
+print(10, type(10))
+print(3.14, type(3.14))
+print("teks", type("teks"))
+print(True, type(True))
+print(None, type(None))
