@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 class Rekening:
     def __init__(self, saldo):
         self.__saldo = saldo

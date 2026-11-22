@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 from abc import ABC, abstractmethod
 
 class Bentuk(ABC):

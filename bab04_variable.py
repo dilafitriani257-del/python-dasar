@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 nama = "Dila"
 jumlah = 5
 a, b = 1, 2

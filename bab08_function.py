@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 def sapa(nama, salam="Halo"):
     return f"{salam}, {nama}!"
 

@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 class Hewan:
     def __init__(self, nama):
         self.nama = nama

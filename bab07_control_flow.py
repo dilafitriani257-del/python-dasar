@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 nilai = 80
 if nilai >= 85:
     print("Grade A")

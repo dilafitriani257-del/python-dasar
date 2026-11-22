@@ -1,4 +1,4 @@
-print('Dila - NIS 123456789')
+print('Dila - NIS 102576967')
 buah = ["apel", "jeruk"]
 buah.append("mangga")
 koordinat = (10, 20)
