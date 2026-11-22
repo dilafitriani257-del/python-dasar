@@ -1,0 +1,2 @@
+def suara():
+    return "Meong"
